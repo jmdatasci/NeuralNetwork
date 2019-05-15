@@ -1,6 +1,8 @@
 # NeuralNetwork
 
-Following the book available for free at http://neuralnetworksanddeeplearning.com/
-  Michael A. Nielsen, "Neural NEtworks and Deep Learning", Determination Press, 2015
+Follow along with the free book at http://neuralnetworksanddeeplearning.com/  
+  
+  
+  __Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015__ 
   
   
